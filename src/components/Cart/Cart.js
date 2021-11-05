@@ -19,7 +19,8 @@ const Cart = (props) => {
     const tax = (total + shipping) * 0.10;
     const grandTotal = total + shipping + tax;
     return (
-        <div>
+        <div className='cart'>
+            <div className="">
             <h3>Order Summary</h3>
             <h5>Items Ordered: {totalQuantity}</h5>
             <br />
@@ -28,6 +29,7 @@ const Cart = (props) => {
             <p>tax: {tax.toFixed(2)}</p>
             <p>Grand Total: {grandTotal.toFixed(2)}</p>
             {props.children}
+            </div>
         </div>
     );
 };

@@ -1,0 +1,16 @@
+.login-form{
+    display: flex;
+    justify-content: center;
+}
+.login-input{
+    width: 250px;
+    padding: 10px;
+    border: 1px solid green;
+    background: rgb(231, 226, 226);
+}
+.btn-login{
+    width: 270px; 
+    padding: 10px;
+    background: goldenrod;
+    border-radius: 10px;
+}

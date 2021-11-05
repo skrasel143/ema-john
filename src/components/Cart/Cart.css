@@ -1,0 +1,9 @@
+.cart{
+    background-image: linear-gradient(#dab8f1, #9da1d1);
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    
+}

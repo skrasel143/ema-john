@@ -1,10 +1,14 @@
 .search-container{
-    background-color: rgba(0, 0, 0, 0.85);
+    background-color: #111;
     text-align: center;
     line-height: 40px;
+    margin-top: -20px;
+    padding-bottom: 10px;
 }
+
 .search-container input{
-    width: 75%;
+    width: 50%;
+    height: 20px;
 }
 .shop-container{
     display: grid;

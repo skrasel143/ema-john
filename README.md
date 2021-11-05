@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# Ema-John Shopping
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://ema-john-9b212.web.app
 ## Available Scripts
 
 In the project directory, you can run:
